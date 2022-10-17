@@ -8,8 +8,7 @@
     <fragment
         android:id="@+id/FirstFragment"
         android:name="com.plcoding.xmlcomposemigration.FirstFragment"
-        android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first">
+        android:label="@string/first_fragment_label">
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
